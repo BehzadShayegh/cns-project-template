@@ -1,3 +1,0 @@
-from .myelination import (
-    Myelination
-)
